@@ -1,0 +1,7 @@
+C:\Pemrogram\Tugasclassdanobjek\Tugasclassdanobjek\bin\Debug\Tugasclassdanobjek.exe.config
+C:\Pemrogram\Tugasclassdanobjek\Tugasclassdanobjek\bin\Debug\Tugasclassdanobjek.exe
+C:\Pemrogram\Tugasclassdanobjek\Tugasclassdanobjek\bin\Debug\Tugasclassdanobjek.pdb
+C:\Pemrogram\Tugasclassdanobjek\Tugasclassdanobjek\obj\Debug\Tugasclassdanobjek.csprojAssemblyReference.cache
+C:\Pemrogram\Tugasclassdanobjek\Tugasclassdanobjek\obj\Debug\Tugasclassdanobjek.csproj.CoreCompileInputs.cache
+C:\Pemrogram\Tugasclassdanobjek\Tugasclassdanobjek\obj\Debug\Tugasclassdanobjek.exe
+C:\Pemrogram\Tugasclassdanobjek\Tugasclassdanobjek\obj\Debug\Tugasclassdanobjek.pdb
